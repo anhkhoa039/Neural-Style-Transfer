@@ -27,7 +27,7 @@ Nhóm sẽ hướng dẫn chi tiết cách chạy từng mô hình.
  
 Phương pháp baseline này chỉ training một ảnh content với một ảnh style tương ứng.
 ### **Một số kết quả thực nghiệm**
-<img src='result image/baseline result/TF-HUB/chicago.starrynew.png' width="200" height="200"> <img src='result image/baseline result/TF-HUB/phongcanh.stars.png' width="200" height="200"> <img src='result image/baseline result/TF-HUB/logouit.ocean.png' width="200" height="200"> <img src='result image/baseline result/TF-HUB/brad_tit.stars.png' width="200" height="200"> 
+<img src='result image/baseline result/TF-HUB/chicago.starrynew.png' width="200" height="200"> <img src='result image/baseline result/TF-HUB/phongcanh.stars.png' width="200" height="200"> <img src='result image/baseline result/TF-HUB/brad_tit.stars.png' width="200" height="200"> 
 
 
 ## Fast Neural Style 
@@ -68,9 +68,8 @@ Phương pháp baseline này chỉ training một ảnh content với một ản
 
 1. A neural algorithm of artistic style (https://arxiv.org/abs/1508.06576)
 2. Perceptual Losses for Real-Time Style Transfer and Super-Resolution (https://arxiv.org/abs/1603.08155)
-3. Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer (https://arxiv.org/pdf/2104.05376.pdf)
-4. https://viblo.asia/p/bien-anh-cua-ban-thanh-cac-tac-pham-hoi-hoa-voi-neural-style-transfer-WAyK8dXoKxX
-5. https://towardsdatascience.com/perceptual-losses-for-real-time-style-transfer-and-super-resolution-637b5d93fa6d
-6. https://github.com/rrmina/fast-neural-style-pytorch
-7. https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/lap_style.md
-8. https://www.youtube.com/watch?v=VQEMptfWpLk
+3. https://viblo.asia/p/bien-anh-cua-ban-thanh-cac-tac-pham-hoi-hoa-voi-neural-style-transfer-WAyK8dXoKxX
+4. https://towardsdatascience.com/perceptual-losses-for-real-time-style-transfer-and-super-resolution-637b5d93fa6d
+5. https://github.com/rrmina/fast-neural-style-pytorch
+6. https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/lap_style.md
+7. https://www.youtube.com/watch?v=VQEMptfWpLk
