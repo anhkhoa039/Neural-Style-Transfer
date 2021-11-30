@@ -1,14 +1,14 @@
 
 <img src='result image/perceptual loss result/2_UIT_stars.jpg'> 
 
-##### Môn: CS331.L21
-
-# ĐỒ ÁN MÔN HỌC: THỊ GIÁC MÁY TÍNH NÂNG CAO
+# ĐỒ ÁN MÔN HỌC: THỊ GIÁC MÁY TÍNH
 
 ### Thành viên
 1. Hoàng Viễn Duy
-2. Trần Hoàng Việt
+2. Lê Duy Khánh
 3. Nguyễn Anh Khoa
+4. Nguyễn Việt Dũng
+5. Trương Hoàng Bảo
 
 **Trong thư mục drive này sẽ chứa những file như sau**:
 
