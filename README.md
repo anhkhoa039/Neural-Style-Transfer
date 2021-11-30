@@ -48,15 +48,12 @@ Phương pháp baseline này chỉ training một ảnh content với một ản
  - Một số model đã train lưu trong folder models
  
  ### **Một số hình ảnh sau khi chạy thực nghiệm**
- <img src='result image/perceptual loss result/2_phongcanh_stars.jpg' width="200" height="200"> <img src='result image/perceptual loss result/3_logo_uit.jpg' width="200" height="200"> <img src='result image/perceptual loss result/1_phongcanh.jpg' width="200" height="200"> <img src='result image/perceptual loss result/chicago.jpg' width="200" height="200"> 
+ <img src='result image/perceptual loss result/2_phongcanh_stars.jpg' width="200" height="200"> <img src='result image/perceptual loss result/1_phongcanh.jpg' width="200" height="200"> <img src='result image/perceptual loss result/chicago.jpg' width="200" height="200"> 
 
 ## WebDemo
 **WebDemo được xây dựng dựa trên framework Flask.** 
 **Hướng dẫn sử dụng:** 
-
- 1. `pip install -r requirements.txt.` để cài đặt các packages cần thiết
- 2. Truy cập `https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/lap_style.md` để tải 4 file pretrained của mô hình và lưu trong thư mục `WebDemo/PaddleGAN`
- 3. Chạy `python app.py` và truy cập `http://127.0.0.1:8000/` để sử dụng ứng dụng
+  Chạy `python app.py` và truy cập `http://127.0.0.1:8000/` để sử dụng ứng dụng
 
 ### **Một số hình ảnh khi chạy thành công ứng dụng**
 <img src='result image/perceptual loss result/web_1.png'> <img src='result image/perceptual loss result/web_2.png'> 
