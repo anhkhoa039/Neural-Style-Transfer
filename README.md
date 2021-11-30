@@ -56,7 +56,6 @@ Phương pháp baseline này chỉ training một ảnh content với một ản
   Chạy `python app.py` và truy cập `http://127.0.0.1:8000/` để sử dụng ứng dụng
 
 ### **Một số hình ảnh khi chạy thành công ứng dụng**
-<img src='result image/perceptual loss result/web_1.png'> <img src='result image/perceptual loss result/web_2.png'> 
 
 ## So sánh kết quả giữa các mô hình
 <img src='result image/perceptual loss result/Screenshot from 2021-07-07 15-58-10.png'> 
