@@ -58,7 +58,7 @@ Phương pháp baseline này chỉ training một ảnh content với một ản
 ### **Một số hình ảnh khi chạy thành công ứng dụng**
 
 ## So sánh kết quả giữa các mô hình
-<img src='result image/perceptual loss result/Screenshot from 2021-07-07 15-58-10.png'> 
+<img src='result image/perceptual loss result/Screenshot from 2021-07-07 15-58-10.png'>  
 # Tài liệu tham khảo
 
 1. A neural algorithm of artistic style (https://arxiv.org/abs/1508.06576)
