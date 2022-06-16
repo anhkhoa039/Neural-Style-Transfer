@@ -5,10 +5,8 @@
 
 ### Thành viên
 1. Hoàng Viễn Duy
-2. Lê Duy Khánh
-3. Nguyễn Anh Khoa
-4. Nguyễn Việt Dũng
-5. Trương Hoàng Bảo
+2. Nguyễn Anh Khoa
+
 
 **Trong thư mục drive này sẽ chứa những file như sau**:
 
@@ -59,7 +57,7 @@ Phương pháp baseline này chỉ training một ảnh content với một ản
 
 ## So sánh kết quả giữa các mô hình
 <img src='result image/perceptual loss result/Screenshot from 2021-07-07 15-58-10.png'>  
-# Tài liệu tham khảo
+## Tài liệu tham khảo
 
 1. A neural algorithm of artistic style (https://arxiv.org/abs/1508.06576)
 2. Perceptual Losses for Real-Time Style Transfer and Super-Resolution (https://arxiv.org/abs/1603.08155)
